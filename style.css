@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: white;
+}
+.escrita{
+    display: flex;
+    flex-direction: column;
+    gap: 41px;
+    width: 566px;
+    margin-top: 85px;
+    margin-left: 344px;
+}
+
+h1{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 64px;
+}
+p{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+}
+.em_baixo{
+    display: flex;
+    margin-top: 196px;
+    margin-left: 43px;
+    flex-direction: row;
+    gap: 51px;
+}
+img{
+    display: flex;
+    width: 302px;
+    height: 348;
+    border-radius: 40px;
+    border: 1px solid black
+   
+}
+
